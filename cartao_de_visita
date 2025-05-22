@@ -1,1 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>chartset="UTF-8">
+  <meta nome="viewport" content="width=device-width, initial-scale=1.0">
+<title>Meu cartao de Visita </title>
+
+</head>
+<body>
+  <div class="card-container">
+          
+    <div class="cartaovis">
+        <picture>
+          
+        </picture>
+    </div>      
+  </div>
+</body>
+</html>
 
