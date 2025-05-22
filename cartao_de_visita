@@ -10,10 +10,17 @@
           
     <div class="cartaovis">
         <picture>
-          
+          <source srcset="jose_social.jpg" media="(max-width: 8000px)">
+          <img src="1.png" alt"criador">
         </picture>
-    </div>      
-  </div>
-</body>
+    </div> 
+
+    <div class="bady_card"></div>
+       <h2>José Gilmar Ix</h2>
+       <span>Full Stack Development</span>
+       <p> Meu nome é José Gilmar e estou aprendendo a ser Dev full!! </p>  
+      </div>
+    </div>
+   </body>
 </html>
 
